@@ -1,4 +1,4 @@
-# Credit-Default-Prediction
+ Credit-Default-Prediction
 
 # Loan default prediction is critical for financial institutions offering lending services. When borrowers cannot repay their loans, it can significantly impact the institution’s financial stability and reputation.
 # In general, loan default prediction is a challenging problem for several reasons. Firstly many factors can influence a borrower’s ability to repay a loan, including their credit score, income, employment history, and more. Secondly, there is often a high degree of variability in the data, as borrowers come from various backgrounds and circumstances. Thirdly, loan defaults are relatively rare, making it difficult to train machine learning (ML) models on them.
